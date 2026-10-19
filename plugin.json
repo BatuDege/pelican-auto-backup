@@ -1,0 +1,13 @@
+{
+  "id": "auto-backup",
+  "name": "Auto Backup",
+  "author": "BatuDege",
+  "version": "1.0.0",
+  "description": "Server-specific backup orchestration with warnings, verified shutdown, retention and run history.",
+  "category": "plugin",
+  "namespace": "Pelican\\AutoBackup",
+  "class": "AutoBackupPlugin",
+  "panels": ["server"],
+  "panel_version": "1.0.0-rc.1",
+  "api_version": 1
+}
